@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.full-width{
+    width: 100%;
+}
+.container{
+    width: 970px;
+    margin: 0 auto;
+}
+ul,ol{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+/* all common css */
+
+/* header part star */
+#header{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.logo{
+    float: left;
+    width: 83px;
+}
+.header-text{
+    float: left;
+    width: 665px;
+}
+.header-text h3{
+    padding-top: 30px;
+    padding-left: 15px;
+    font-size: 25px;
+    color:#3ca2a2;
+}
+.phone-number{
+    float: left;
+    width: 222px;
+}
+.phone-number h3{
+    padding-top: 30px;
+    font-size: 30px;
+    color:#c00a11; 
+}
